@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 5b08909e091b34552b382e3f97d5cdf4
+  - enabled: 1
+    path: Assets/Scenes/Obby.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Game Complete.unity
+    guid: 7b64e26acdf3847ce9815b55ad4ef16e
+  - enabled: 1
+    path: Assets/Scenes/Game Over (Projectile).unity
+    guid: 777d4c3eb3e684af9ae9a43c56f525af
+  - enabled: 1
+    path: Assets/Scenes/Projectiles.unity
+    guid: d53e6045da6cf4da7800b03687e107f9
+  m_configObjects: {}
